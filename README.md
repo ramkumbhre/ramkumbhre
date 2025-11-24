@@ -28,9 +28,12 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springBoot-%23F23033.svg?style=for-the-badge&logo=spring-boot&logoColor=green)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!-- Projects -->
 ## 🚀 Featured Projects
@@ -40,16 +43,17 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 
 I recently developed a full-stack Airbnb Clone using cutting-edge technologies like Next.js 13, React, Tailwind, Prisma, MongoDB, and NextAuth. This project showcased my skills in building dynamic web apps, implementing authentication, and integrating databases for user convenience.
 
-### Tourism Promoting Website using Three.js
+### Quiz Application 
 
-**(Technologies: HTML, CSS, Bootstrap, JavaScript, Three.js)**
+**(Technologies: HTML, CSS, Angular, TypeScript, Java, Spring Boot, PostgreSQL)**
 
-I designed a captivating tourism promoting website using the Three.js library in JavaScript. It allows the import and manipulation of 3D models on the site. You can explore stunning 3D models of various Indian monuments with interactive rotation and zooming functionalities. The website offers immersive visuals and valuable information on accommodations, travel destinations, and nearby stays, enhancing the user experience of exploring India's heritage.
+Quiz Application is a Java-based interactive platform that allows users to take quizzes across multiple categories with instant scoring and feedback. The application features a user-friendly interface, dynamic question loading, and real-time result evaluation. Built using Java, Spring Boot, and PostgreSQL, it provides a smooth quiz experience while ensuring efficient data management and scalability.
 
-### BetterReads Website using Spring Boot
-**(Technologies: Spring Boot, Java, Cassandra, Thymeleaf)**
+### Hand Gestures Automation System
+**(Technologies: Python, OpenCV, MediaPipe, Numpy, TensorFlow, Jupyter Notebook)**
+**(Hardware Tools: Arduino UNO, L298N Motor Driver Module)**
 
-I developed "BetterReads," a high-performance, stateless backend application that efficiently manages a large volume of book rating and tracking data. The application offers a seamless browsing experience and personalized features for users, including user-specific book reading status. To ensure scalability and reliability, I leveraged DataStax Astra DB, a hosted Cassandra database, and integrated GitHub OAuth login for streamlined user authentication.
+The Hand Gesture Controlled Automation System is a machine learning–powered project that allows users to control a remote-controlled car using only hand gestures captured through a camera. The system analyzes real-time video input, recognizes gestures such as forward, backward, left, and right, and sends corresponding commands to the car. This creates a fully touch-free, intuitive control experience, demonstrating the potential of gesture-based interaction in robotics and automation.
 
 <!-- About Me -->
 ## 🌟 About Me
