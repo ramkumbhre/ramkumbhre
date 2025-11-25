@@ -18,7 +18,9 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,6 +50,12 @@ I recently developed a full-stack Airbnb Clone using cutting-edge technologies l
 **(Technologies: HTML, CSS, Angular, TypeScript, Java, Spring Boot, PostgreSQL)**
 
 Quiz Application is a Java-based interactive platform that allows users to take quizzes across multiple categories with instant scoring and feedback. The application features a user-friendly interface, dynamic question loading, and real-time result evaluation. Built using Java, Spring Boot, and PostgreSQL, it provides a smooth quiz experience while ensuring efficient data management and scalability.
+
+### Expense tracker
+
+**(Technologies: Java, JavaFx, Spring Boot, PostgresSQL)**
+
+Engineered a full-stack Expense Management System featuring secure authentication, category-wise tracking, calendar-based filtering, income–expense analytics, and dynamic chart visualizations. platform with user auth, category management, calendar navigation, income comparison, and real-time analytical charts powered by PostgreSQL. income-to-expense calculations, and dynamic data visualization.
 
 ### Hand Gestures Automation System
 **(Technologies: Python, OpenCV, MediaPipe, Numpy, TensorFlow, Jupyter Notebook)**
