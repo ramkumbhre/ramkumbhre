@@ -78,5 +78,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/budharam-
 ## Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budharam-kumbhre/)
-<a href="ramkumbhre321@gmail.com">![Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=ramkumbhre321@gmail.com&su= )</a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ramkumbhre321@gmail.com&su=)
 
