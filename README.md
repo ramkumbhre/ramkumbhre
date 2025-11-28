@@ -31,7 +31,6 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springBoot-%23F23033.svg?style=for-the-badge&logo=spring-boot&logoColor=green)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,5 +78,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/budharam-
 ## Contact Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budharam-kumbhre/)
-<a href="ramkumbhre321@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="ramkumbhre321@gmail.com">![Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=ramkumbhre321@gmail.com&su= )</a>
 
