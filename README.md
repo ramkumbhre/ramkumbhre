@@ -39,7 +39,7 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 <!-- Projects -->
 ## 🚀 Featured Projects
 
-### Cozy Corners (Airbnb Clone)
+### Airbnb Clone
 **(Technologies: Next.js, Typescript, React, Prisma, MongoDB)**
 
 I recently developed a full-stack Airbnb Clone using cutting-edge technologies like Next.js 13, React, Tailwind, Prisma, MongoDB, and NextAuth. This project showcased my skills in building dynamic web apps, implementing authentication, and integrating databases for user convenience.
