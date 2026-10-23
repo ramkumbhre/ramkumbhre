@@ -22,9 +22,13 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocols.io&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-thebadge&logo=scikitlearn&logoColor=F7931E)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -40,28 +44,32 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 <!-- Projects -->
 ## 🚀 Featured Projects
 
-### Airbnb Clone
-**(Technologies: Next.js, Typescript, React, Prisma, MongoDB)**
+### TravelPlanner
+**(Technologies: Python, GROQ Model, OpenAPI, LangGraph, Tavily, AviationStack and OpenWeather APIs, PostgreSQL, Docker)**
 
-I recently developed a full-stack Airbnb Clone using cutting-edge technologies like Next.js 13, React, Tailwind, Prisma, MongoDB, and NextAuth. This project showcased my skills in building dynamic web apps, implementing authentication, and integrating databases for user convenience.
+TravelPlanner AI is an AI-powered application that creates personalized travel plans based on user preferences.
+It helps users explore destinations, plan daily itineraries, and estimate travel budgets.
+The project integrates AI and real-time data to simplify travel planning.
+It aims to make trip planning faster, smarter, and more convenient.
 
-### Quiz Application 
 
-**(Technologies: HTML, CSS, Angular, TypeScript, Java, Spring Boot, PostgreSQL)**
+### Expense tracker and Management System
 
-Quiz Application is a Java-based interactive platform that allows users to take quizzes across multiple categories with instant scoring and feedback. The application features a user-friendly interface, dynamic question loading, and real-time result evaluation. Built using Java, Spring Boot, and PostgreSQL, it provides a smooth quiz experience while ensuring efficient data management and scalability.
-
-### Expense tracker
-
-**(Technologies: Java, JavaFx, Spring Boot, PostgresSQL)**
+**(Technologies: Java, Spring Boot, React, OAuth2.0, Render, PostgresSQL, Supabase)**
 
 Engineered a full-stack Expense Management System featuring secure authentication, category-wise tracking, calendar-based filtering, income–expense analytics, and dynamic chart visualizations. platform with user auth, category management, calendar navigation, income comparison, and real-time analytical charts powered by PostgreSQL. income-to-expense calculations, and dynamic data visualization.
+
+### BookMyHotel
+**(Technologies: Next.js, Typescript, NextAuth, PrismaDB, MongoDB)**
+
+I recently developed a full-stack a Hotel booking system using cutting-edge technologies like Next.js 13, React, Tailwind, Prisma, MongoDB, and NextAuth. This project showcased my skills in building dynamic web apps, implementing authentication, and integrating databases for user convenience.
 
 ### Hand Gestures Automation System
 **(Technologies: Python, OpenCV, MediaPipe, Numpy, TensorFlow, Jupyter Notebook)**
 **(Hardware Tools: Arduino UNO, L298N Motor Driver Module)**
 
 The Hand Gesture Controlled Automation System is a machine learning–powered project that allows users to control a remote-controlled car using only hand gestures captured through a camera. The system analyzes real-time video input, recognizes gestures such as forward, backward, left, and right, and sends corresponding commands to the car. This creates a fully touch-free, intuitive control experience, demonstrating the potential of gesture-based interaction in robotics and automation.
+
 
 <!-- About Me -->
 ## 🌟 About Me
