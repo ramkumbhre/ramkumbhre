@@ -27,7 +27,7 @@ I'm a passionate developer with a love for creating unique and innovative web ex
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocols.io&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-thebadge&logo=scikitlearn&logoColor=F7931E)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
